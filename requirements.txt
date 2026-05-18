@@ -2,7 +2,6 @@ fastapi
 uvicorn
 crewai
 alpaca-trade-api
-MetaTrader5
 pandas
 numpy
 requests
